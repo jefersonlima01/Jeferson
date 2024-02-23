@@ -1,0 +1,15 @@
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\obj\Debug\net5.0\POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\obj\Debug\net5.0\POO2.AssemblyInfoInputs.cache
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\obj\Debug\net5.0\POO2.AssemblyInfo.cs
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\obj\Debug\net5.0\POO2.csproj.CoreCompileInputs.cache
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\bin\Debug\net5.0\POO2.exe
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\bin\Debug\net5.0\POO2.deps.json
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\bin\Debug\net5.0\POO2.runtimeconfig.json
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\bin\Debug\net5.0\POO2.runtimeconfig.dev.json
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\bin\Debug\net5.0\POO2.dll
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\bin\Debug\net5.0\POO2.pdb
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\obj\Debug\net5.0\POO2.dll
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\obj\Debug\net5.0\refint\POO2.dll
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\obj\Debug\net5.0\POO2.pdb
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\obj\Debug\net5.0\POO2.genruntimeconfig.cache
+C:\Users\LowCost\OneDrive\Desktop\EntregaveisPoo1\EntregaveisPoo2\POO2\obj\Debug\net5.0\ref\POO2.dll
